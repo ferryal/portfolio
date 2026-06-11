@@ -2,3 +2,5 @@ node_modules
 /build
 /.cache
 .env
+/resume-frontend.md 
+/resume-fullstack.md
